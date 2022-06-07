@@ -1,0 +1,19 @@
+{
+  "name": "sinagolshanmidtem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinaGolshan/SinaGolshanMidtem.git"
+  },
+  "author": "Sina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SinaGolshan/SinaGolshanMidtem/issues"
+  },
+  "homepage": "https://github.com/SinaGolshan/SinaGolshanMidtem#readme"
+}
